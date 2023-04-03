@@ -1,7 +1,7 @@
 import { useEffect, useState } from 'react';
+import Header from './components/Header';
+import Card from './components/Card';
 import './App.css';
-import Header from './Components/Header';
-import Card from './Components/Card';
 
 function App() {
   const [list, setList] = useState([]);
@@ -97,6 +97,7 @@ function App() {
             <th>City</th>
             <th>State</th>
             <th>Country</th>
+            <th>More Details</th>
           </tr>
         </thead>
         <tbody>

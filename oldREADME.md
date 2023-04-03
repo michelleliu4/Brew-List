@@ -1,4 +1,4 @@
-# Web Development Project 6 - *Brew List*
+# Web Development Project 5 - *Brew List*
 
 Submitted by: **Michelle Liu**
 
@@ -10,15 +10,20 @@ Time spent: **4** hours spent in total
 
 The following **required** functionality is completed:
 
-- [X] **The app includes at least two unique chart developed using the fetched data that tell an interesting story**
-- [X] **Clicking on an item in the list view displays more details about it**
-- [X] **Clicking on an item has a direct, unique link to that item's detail view page**
-
+- [X] **The list displays a list of data fetched using an API call**
+- [X] **Data uses the useEffect React hook and async/await syntax**
+- [X] **The app dashboard includes at least three summary statistics about the data such as**
+  - [X] *Number of breweries in the current list*
+  - [X] *State with the most breweries in the current list*
+  - [X] *Number of breweries in the state with most breweries in the current list*
+- [X] **A search bar allows the user to search for an item in the fetched data**
+- [X] **Multiple different filters (2+) allow the user to filter items in the database by specified categories**
 
 The following **optional** features are implemented:
 
-- [ ] The site's customized dashboard contains more content that explains what is interesting about the data
-- [ ] The site allows users to toggle between different data visualizations
+- [ ] Multiple filters can be applied simultaneously
+- [ ] Filters use different input types such as a text input, a selection, or a slider
+- [ ] The user can enter specific bounds for filter values
 
 The following **additional** features are implemented:
 
@@ -28,10 +33,10 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://i.imgur.com/phHSPEG.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://i.imgur.com/Ytbs94r.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
-GIF created with [ScreenToGif](https://www.screentogif.com/)
+GIF created with [ScreenToGif](https://www.screentogif.com/)  
 <!-- Recommended tools:
 [Kap](https://getkap.co/) for macOS
 [ScreenToGif](https://www.screentogif.com/) for Windows
@@ -43,7 +48,7 @@ Utilized [Open Brewery DB](https://www.openbrewerydb.org/) as a brewery database
 
 ## License
 
-    Copyright 2023 Michelle Liu
+    Copyright [yyyy] [name of copyright owner]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
