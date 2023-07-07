@@ -1,41 +1,12 @@
-# Web Development Project 6 - *Brew List*
+# Brew List
 
-Submitted by: **Michelle Liu**
-
-This web app: Utilizes Open Brewery DB to generate a dashboard of breweries with searchable filters based on name, location, and type of brew.
-
-Time spent: **4** hours spent in total
-
-## Required Features
-
-The following **required** functionality is completed:
-
-- [X] **The app includes at least two unique chart developed using the fetched data that tell an interesting story**
-- [X] **Clicking on an item in the list view displays more details about it**
-- [X] **Clicking on an item has a direct, unique link to that item's detail view page**
-
-
-The following **optional** features are implemented:
-
-- [ ] The site's customized dashboard contains more content that explains what is interesting about the data
-- [ ] The site allows users to toggle between different data visualizations
-
-The following **additional** features are implemented:
-
-* [ ] List anything else that you added to improve the site's functionality!
+This web app utilizes Open Brewery DB to generate a dashboard of breweries with searchable filters based on name, location, and type of brew.
 
 ## Video Walkthrough
 
-Here's a walkthrough of implemented user stories:
-
 <img src='https://i.imgur.com/bxidI4p.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
-<!-- Replace this with whatever GIF tool you used! -->
 GIF created with [ScreenToGif](https://www.screentogif.com/)
-<!-- Recommended tools:
-[Kap](https://getkap.co/) for macOS
-[ScreenToGif](https://www.screentogif.com/) for Windows
-[peek](https://github.com/phw/peek) for Linux. -->
 
 ## Notes
 
